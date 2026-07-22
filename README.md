@@ -1,0 +1,2 @@
+# VRSleepDisableADB
+VRSleepDisableADBStayAwake
